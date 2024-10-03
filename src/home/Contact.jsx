@@ -15,11 +15,13 @@ function Contact() {
             Got a project? Let&apos;s talk!
           </p>
           <p className="text-stone-300 font-semibold text-2xl lg:text-4xl">
-            pinkihanzaidee@gmail.com
+            llenardcarl0826@gmail.com
           </p>
         </div>
         <div className="flex flex-col lg:flex-row justify-between w-full mt-[132px] ">
-          <p className="text-white font-bold hidden md:block">Zaidee Tayaban</p>
+          <p className="text-white font-bold hidden md:block">
+            Llenard Carl T. Alcayna
+          </p>
           <div className="flex justify-between gap-[19px]">
             <p className="text-white font-semibold">Home</p>
             <p className="text-white font-semibold">Services</p>

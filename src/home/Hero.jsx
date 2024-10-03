@@ -23,7 +23,7 @@ function Hero() {
             </div>
             <div className="w-full lg:max-w-[79%]">
               <p className="text-white lg:text-start md:text-center leading-[1.5]">
-                Hello there! I&apos;m Zaidee P. Tayaban, a
+                Hello there! I&apos;m Llenard Alcayna, a
                 <span className="font-bold"> Full Stack Web Developer</span>{" "}
                 with a passion for turning ideas into reality. I specialize in
                 building scalable, efficient, and user-friendly web applications
